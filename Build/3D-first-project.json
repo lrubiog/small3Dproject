@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "My project (2)",
+"productVersion": "0.1",
+"dataUrl": "3D-first-project.data.unityweb",
+"wasmCodeUrl": "3D-first-project.wasm.code.unityweb",
+"wasmFrameworkUrl": "3D-first-project.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.39f1"
+}
